@@ -1,0 +1,30 @@
+body{
+	background-color: black;
+	color: white;
+	background-image: url(bg.jpg);
+	background-size: cover;
+}
+
+#title{
+	color: gold;
+	font-family: fantasy;
+	font-size: 50px;
+  	margin-bottom: 100px;
+  	margin-right: 150px;
+  	margin-left: 40%;
+}
+
+#quote{
+	font-size: 30px;
+	font-family: cursive;
+	margin-left: 4%;
+}
+
+#name{
+	font-family: cursive;
+	margin-left: 85%;
+}
+#vid{
+	width: 100%;
+	height: auto;
+}
